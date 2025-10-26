@@ -170,10 +170,6 @@ See [examples/](examples/) for more detailed tutorials.
 ## Documentation
 
 - **[LinkedIn Article](docs/linkedin-article.md)** - Accessible explanation for non-technical audiences
-- **[Problem Statement](docs/problem-statement.md)** - Deep dive into the memory problem Andrej identified
-- **[Architecture](docs/architecture.md)** - Technical design and implementation details
-- **[Principles](docs/principles.md)** - Core Memory Engineering principles
-- **[Examples](docs/examples.md)** - Detailed walkthroughs and tutorials
 
 ---
 
